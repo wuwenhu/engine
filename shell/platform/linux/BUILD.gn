@@ -85,6 +85,7 @@ source_set("flutter_linux") {
     "fl_standard_message_codec.cc",
     "fl_standard_method_codec.cc",
     "fl_string_codec.cc",
+    "fl_text_input_channel.cc",
     "fl_value.cc",
     "fl_view.cc",
   ]
